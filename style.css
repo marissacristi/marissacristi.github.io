@@ -1,0 +1,17 @@
+p {
+	color: blue;
+}
+h1 {
+	color:red;
+} 
+.fancy {
+	color: purple;
+	font-size: 52px;
+	text-transform:uppercase;
+	text-align:center;
+	text-decoration:underline;
+	font-family:"Helvetica";
+}
+#my-list{
+	color:orange;
+}
